@@ -1,0 +1,25 @@
+{
+  "name": "chucknorrisfacts",
+  "version": "1.0.0",
+  "description": "Chuck norris Facts ",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaRanjanSingh/chucknorrisfacts.git"
+  },
+  "author": "Aditya ranjan singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaRanjanSingh/chucknorrisfacts/issues"
+  },
+  "homepage": "https://github.com/AdityaRanjanSingh/chucknorrisfacts#readme",
+  "dependencies": {
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1",
+    "grunt-parallel": "^0.5.1"
+  }
+}
